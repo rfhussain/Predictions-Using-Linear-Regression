@@ -1,5 +1,5 @@
 # Predictions Using Linear Regression
-A Project using the demo Ecommerce dataset, to predict on the requirements by the Ecommerce org.
+A Project using a demo Ecommerce dataset, to predict on the requirements by the Ecommerce org.
 
 ### Linear Regression
 Simple linear regression is a statistical method that allows us to summarize and study relationships between two continuous (quantitative) variables. This lesson introduces the concept and basic procedures of simple linear regression.
